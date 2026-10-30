@@ -1,0 +1,88 @@
+{
+  "marca": "Café Serra",
+  "dominio": "cafeserra.com.br",
+  "tipoSchema": "LocalBusiness",
+  "descricao": "Cafés especiais torrados na semana e entregues em casa em Campina Grande PB e região.",
+  "areaAtendida": "Campina Grande e região",
+  "whatsapp": "5583900000000",
+  "whatsappTexto": "(83) 90000-0000",
+  "mensagem": "Olá! Quero assinar o café da Café Serra.",
+  "cores": { "fundo": "#1F120B", "acao": "#E8A33D", "detalhe": "#FFD27A" },
+  "fontes": { "titulo": "Sora", "corpo": "Inter" },
+  "logo": "",
+  "simbolo": "",
+  "visual": "",
+  "video": false,
+  "seo": {
+    "title": "Assinatura de café especial | Café Serra",
+    "description": "Assinatura de café especial em Campina Grande PB: torra da semana entregue em casa. A partir de R$ 39,90 por mês, sem fidelidade. Peça no WhatsApp.",
+    "ogDescription": "Torra da semana entregue em casa. A partir de R$ 39,90 por mês, sem fidelidade.",
+    "ogLinhas": ["Café especial", "na sua porta"],
+    "ogRodape": "A partir de R$ 39,90 por mês · Sem fidelidade"
+  },
+  "selo": "Torra da semana · Campina Grande e região",
+  "h1": ["*Café fresco* na sua porta,", "toda semana,", "sem sair de casa."],
+  "sub": "Grãos selecionados, torrados na semana da entrega. A partir de R$ 39,90 por mês, sem fidelidade.",
+  "cta": "Assinar pelo WhatsApp",
+  "prova": "Torra na semana · Cancela quando quiser · Pix ou cartão",
+  "pilares": [
+    { "icone": "caixa", "titulo": "Entrega na semana", "texto": "O café chega poucos dias depois da torra." },
+    { "icone": "estrela", "titulo": "Grãos selecionados", "texto": "Lotes escolhidos a cada mês." },
+    { "icone": "pino", "titulo": "Atendimento local", "texto": "Equipe em Campina Grande." }
+  ],
+  "recursos": {
+    "titulo": "Tudo o que faz diferença na sua xícara.",
+    "itens": [
+      { "rotulo": "Frescor", "titulo": "Torra da semana", "texto": "O café é torrado poucos dias antes de sair para a entrega." },
+      { "rotulo": "Moagem", "titulo": "Do jeito que você usa", "texto": "Em grão ou moído para coador, prensa ou espresso." },
+      { "rotulo": "Liberdade", "titulo": "Pausa quando quiser", "texto": "Viajou? Pule a entrega do mês pelo WhatsApp." },
+      { "rotulo": "Origem", "titulo": "Lote identificado", "texto": "Cada pacote traz a fazenda e a data da torra." },
+      { "rotulo": "Entrega", "titulo": "Combinada com você", "texto": "Escolha o melhor dia para receber em casa." },
+      { "rotulo": "Pagamento", "titulo": "Pix ou cartão", "texto": "Você escolhe como pagar a assinatura." }
+    ]
+  },
+  "frase": "Você não precisa lembrar de comprar café. Ele chega na sua porta.",
+  "passos": {
+    "titulo": "Três passos até o primeiro café.",
+    "nomeSchema": "Como assinar a Café Serra",
+    "itens": [
+      { "titulo": "Chame no WhatsApp e escolha o plano", "texto": "Conte como você prepara o café." },
+      { "titulo": "Torramos o seu lote", "texto": "A torra acontece na semana da entrega." },
+      { "titulo": "Você recebe em casa", "texto": "A entrega é combinada com você." }
+    ]
+  },
+  "planos": {
+    "rotulo": "Planos",
+    "titulo": "Um plano para cada consumo.",
+    "colunaNome": "Plano",
+    "colunaPreco": "Mensalidade",
+    "periodo": "/mês",
+    "botao": "Quero este plano",
+    "nota": "Pagamento por Pix ou cartão. Sem fidelidade.",
+    "itens": [
+      { "nome": "250 g", "preco": "R$ 39,90", "mensagem": "Olá! Quero o plano 250 g (R$ 39,90/mês).", "descricao": "250 g de café especial por mês." },
+      { "nome": "500 g", "preco": "R$ 69,90", "mensagem": "Olá! Quero o plano 500 g (R$ 69,90/mês).", "descricao": "500 g de café especial por mês." }
+    ]
+  },
+  "duvidas": {
+    "titulo": "Ficou alguma dúvida sobre a assinatura?",
+    "itens": [
+      { "p": "Tem fidelidade?", "r": "Não. Você pode cancelar quando quiser, sem multa e sem prazo mínimo. Basta avisar pelo WhatsApp antes da próxima torra, e a cobrança seguinte não acontece." },
+      { "p": "Quando o café chega?", "r": "A torra acontece na semana da entrega e o dia é combinado com você pelo WhatsApp. Assim o café chega poucos dias depois de sair do torrador." }
+    ]
+  },
+  "final": { "titulo": "Pronto para o primeiro café?", "sub": "Chame no WhatsApp e escolha o plano." },
+  "rodape": "Café especial por assinatura em Campina Grande e região.",
+  "empresa": {
+    "cnpj": "",
+    "endereco": "Rua Exemplo, 100, Centro",
+    "cidade": "Campina Grande",
+    "uf": "PB",
+    "cidadeUf": "Campina Grande PB",
+    "cep": "58400-000",
+    "horario": "Atendimento em horário comercial"
+  },
+  "links": [],
+  "proibidas": [],
+  "permitirHifen": []
+}
